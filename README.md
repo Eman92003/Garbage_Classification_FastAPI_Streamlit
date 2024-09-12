@@ -21,13 +21,10 @@ This repository provides a complete solution for garbage classification, combini
 ## API Deployment
 
 ### 1. FastAPI Creation
-* We used FastAPI for creating the API.
 
 ### 2. Dockerization
-* We dockerized the API.
 
 ### 3. API Deployment with Streamlit
-* We run the API on Streamlit.
 
 ### Note: We dockerized the API just in case we used an alternate cloud service, but you can run the API directly on Streamlit!
 
