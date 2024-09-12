@@ -18,15 +18,17 @@ This repository provides a complete solution for garbage classification, combini
 * Trains the model using the processed dataset and monitors performance through accuracy and loss metrics.
 * Evaluates the model's performance on a validation set to ensure generalization and avoid overfitting.
 
+### Dataset: https://www.kaggle.com/datasets/mostafaabla/garbage-classification
+
 ## API Deployment
 
-### 1. FastAPI Creation
+ 1. FastAPI Creation
 
-### 2. Dockerization
+ 2. Dockerization
 
-### 3. API Deployment with Streamlit
+ 3. API Deployment with Streamlit
 
-### Note: We dockerized the API just in case we used an alternate cloud service, but you can run the API directly on Streamlit!
+### Note: ######We dockerized the API just in case we used an alternate cloud service, but you can run the API directly on Streamlit!
 
 ## How to Use the API
 
@@ -42,3 +44,8 @@ This repository provides a complete solution for garbage classification, combini
   streamlit run app.py
 ### 4. Upload Your Photo
 * Use the provided interface to upload your photo for classification.
+
+## Contact Us
+
+[![Gmail](https://img.icons8.com/color/20/000000/gmail.png)](mailto:nedaaelsherbini@gmail.com) nedaaelsherbini@gmail.com  
+[![Gmail](https://img.icons8.com/color/20/000000/gmail.png)](mailto:eyaser@std.mans.edu.eg) eyaser@std.mans.edu.eg
