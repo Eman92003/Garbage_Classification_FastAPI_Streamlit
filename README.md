@@ -28,7 +28,7 @@ This repository provides a complete solution for garbage classification, combini
 
  3. API Deployment with Streamlit
 
-### Note: ######We dockerized the API just in case we used an alternate cloud service, but you can run the API directly on Streamlit!
+### Note: <small>We dockerized the API just in case we used an alternate cloud service, but you can run the API directly on Streamlit!</small>
 
 ## How to Use the API
 
