@@ -35,15 +35,19 @@ This repository provides a complete solution for garbage classification, combini
 ### 1. Download the File
 * Download file on your local device.
 
-### 2. Open Folder Location
-* Open the folder location, then write `cmd` on the navigation bar.
+### 2. Run the FastAPI
+* Write this prompt in your terminal:
+  ```PowerShell
+  uvicorn main:app --reload
 
-### 3. Run the Command
+### 3. Run Streamlit
 * Write this prompt in your terminal:
   ```bash
   streamlit run app.py
 ### 4. Upload Your Photo
 * Use the provided interface to upload your photo for classification.
+
+### 5. Click Predict bottom 
 
 ## Contact Us
 
